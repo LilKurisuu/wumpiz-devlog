@@ -11,7 +11,7 @@
 • Once bot is back online, an inventory, money, and hopefully, a shop will be added as well as some other fun commands! 🎉
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+More info on Wumpiz will be given in the future when fully released.
 
 
 ### Support or Contact
